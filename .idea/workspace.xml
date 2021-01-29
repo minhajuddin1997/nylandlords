@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9fc393d1-0385-46a3-9e39-a9c555b34e66" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/controllers/Admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/controllers/Admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/controllers/Administrator.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/controllers/Administrator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/controllers/File_Upload.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/controllers/File_Upload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/controllers/KanBoard.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/controllers/KanBoard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/admin/admins/add.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/admin/admins/add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/admin/admins/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/admin/admins/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/admin/client_all_files/list.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/admin/client_all_files/list.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/admin/dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/admin/dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/admin/inc/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/admin/inc/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/admin/inc/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/admin/inc/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/admin/inc/side_nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/admin/inc/side_nav.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/admin/kanban/kan.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/admin/kanban/kan.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/admin/kanban/list.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/admin/kanban/list.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/admin/role/add.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/admin/role/add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/admin/role/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/admin/role/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/assets/js/demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/assets/js/demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/credentials_pluto.txt" beforeDir="false" afterPath="$PROJECT_DIR$/credentials_pluto.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/test/AdminLTE_3_Dashboard.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/test/AdminLTE_3_Dashboard1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/test/AdminLTE_3_Dashboard2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/test/AdminLTE_3_Dashboard_(1).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/test/E_learning_dev.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/test/admission.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/test/admission_(1).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/test/admission_(1)1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/test/admission_(1)2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/test/admission_(1)3.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gZ9ACHYMzECXP89PwpOHlwTwtG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fc393d1-0385-46a3-9e39-a9c555b34e66" name="Default Changelist" comment="" />
+      <created>1598311101435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598311101435</updated>
+      <workItem from="1598311102553" duration="1767000" />
+      <workItem from="1598313265026" duration="1883000" />
+      <workItem from="1598377377622" duration="34907000" />
+      <workItem from="1598980463858" duration="13365000" />
+      <workItem from="1599939578439" duration="600000" />
+      <workItem from="1600076393298" duration="795000" />
+      <workItem from="1600142332971" duration="1468000" />
+      <workItem from="1600144026301" duration="3795000" />
+      <workItem from="1600148516134" duration="13188000" />
+      <workItem from="1600248979788" duration="19550000" />
+      <workItem from="1600335701466" duration="18248000" />
+      <workItem from="1600419616323" duration="12232000" />
+      <workItem from="1600887174586" duration="52589000" />
+      <workItem from="1601545267392" duration="2455000" />
+      <workItem from="1601551861547" duration="1112000" />
+      <workItem from="1601554418936" duration="40009000" />
+      <workItem from="1601982140178" duration="75380000" />
+      <workItem from="1602515981673" duration="2855000" />
+      <workItem from="1602582115931" duration="12021000" />
+      <workItem from="1602669741344" duration="27000" />
+      <workItem from="1602693777110" duration="2992000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="344" y="153" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598982274279">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="344" y="153" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1598982274279" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1601914912240">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599909832996" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1601914912240" />
+    <state x="418" y="76" key="NewPhpClassDialog" timestamp="1600268265468">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="418" y="76" key="NewPhpClassDialog/0.0.1366.738@0.0.1366.738" timestamp="1600268265468" />
+    <state x="437" y="297" key="NewPhpFileDialog" timestamp="1602073685357">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="487" y="282" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1599776181877" />
+    <state x="437" y="297" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1602073685357" />
+    <state x="184" y="14" key="SettingsEditor" timestamp="1601043474866">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1601043474866" />
+    <state x="500" y="279" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600343837243">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="500" y="279" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1600343837243" />
+    <state x="342" y="90" width="681" height="548" key="find.popup" timestamp="1598982254645">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="342" y="90" width="681" height="548" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1598982254645" />
+    <state x="339" y="159" key="run.anything.popup" timestamp="1600366629810">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1599862185363" />
+    <state x="339" y="159" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1600366629810" />
+    <state x="346" y="50" width="672" height="688" key="search.everywhere.popup" timestamp="1602504073901">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1599591997858" />
+    <state x="346" y="50" width="672" height="688" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1602504073901" />
+  </component>
+</project>

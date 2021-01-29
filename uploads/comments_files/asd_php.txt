@@ -1,0 +1,16 @@
+FileToUploadPathViaCpanel:
+	public_html/ilechv1/pub/media/wysiwyg/.thumbs/cleversoft/home01
+
+ParentChild
+	<img class="ctgryicon" src="https://ilechng.com/ilechv1/pub/media/wysiwyg/.thumbs/cleversoft/home01/{{ FileNameWithExtension}}">
+
+ForChild
+	<img class="ctgryicon" src="https://ilechng.com/ilechv1/pub/media/wysiwyg/.thumbs/cleversoft/home01/{{ FileNameWithExtension}}" style="width: 27px;top: 0px;">
+
+
+shoes <img class="ctgryicon" src="https://ilechng.com/ilechv1/pub/media/wysiwyg/.thumbs/cleversoft/home01/shoes.png" style="width: 27px;top: 0px;">
+shoes <img class="ctgryicon" src="https://ilechng.com/ilechv1/pub/media/wysiwyg/.thumbs/cleversoft/home01/shoes.png" style="width: 27px;top: 0px;">
+shoes <img class="ctgryicon" src="https://ilechng.com/ilechv1/pub/media/wysiwyg/.thumbs/cleversoft/home01/shoes.png" style="width: 27px;top: 0px;">
+
+shoes <img class="ctgryicon" src="https://ilechng.com/ilechv1/pub/media/wysiwyg/.thumbs/cleversoft/home01/shoes.png" style="width: 27px;top: 0px;">
+shoes <img class="ctgryicon" src="https://ilechng.com/ilechv1/pub/media/wysiwyg/.thumbs/cleversoft/home01/shoes.png" style="width: 27px;top: 0px;">

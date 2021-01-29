@@ -1,0 +1,1 @@
+<?php redirect('edit/home_page/1');?>

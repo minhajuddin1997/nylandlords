@@ -1,0 +1,2 @@
+Redirect to last link
+$refer =  $this->agent->referrer(); 
